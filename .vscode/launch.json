@@ -20,7 +20,7 @@
                 "NC_DB": "mysql2://localhost:3306?u=root&p=root&d=mv_nc_db"
             },
             "sourceMaps": true,
-            "cwd": "${workspaceRoot}",
+            "cwd": "${workspaceRoot}/packages/nocodb",
             "protocol": "inspector",
             "console": "integratedTerminal",
             "internalConsoleOptions": "neverOpen"
